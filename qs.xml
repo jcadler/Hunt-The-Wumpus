@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<TriviaManagement>
+	<maxid>100</maxid>
+	<maxidt>100</maxidt>
+	<question id="1">
+		<q>Who is the current Prime Minister of the United Kingdom?</q>		
+		<a1>Nick Clegg</a1>
+		<a2>Nicolas Sarkozy</a2>
+		<a3>Gordon Brown</a3>
+		<a4>David Cameron</a4>
+		<a>4</a>		
+	</question>
+	<question id="2">
+		<q>Who is the current Chancellor of Germany?</q>
+		<a1>Angela Merkel</a1>
+		<a2>Helmut Schmidt</a2>
+		<a3>Helmut Kohl</a3>
+		<a4>Willy Brandt</a4>
+		<a>1</a>
+	</question>
+	<question id="3">
+		<q>What is the capitol of South Korea?</q>
+		<a1>Inchon</a1>
+		<a2>Itaewon</a2>
+		<a3>Seoul</a3>
+		<a4>Busan</a4>
+		<a>3</a>
+	</question>
+	<question id="4">
+		<q>What is the cake?</q>
+		<a1>The Truth</a1>
+		<a2>A Lie</a2>
+		<a3>Chocolate</a3>
+		<a4>Vanilla</a4>
+		<a>2</a>
+	</question>
+	<question id="5">
+		<q>Who is the current Prime Minister of Israel?</q>
+		<a1>Ehud Olmert</a1>
+		<a2>Ariel Sharon</a2>
+		<a3>Ehud Barak</a3>
+		<a4>Benjamin Netanyahu</a4>
+		<a>4</a>
+	</question>
+	<question id="6">
+		<q>What are the first 7 lines of the Declaration of Independence?</q>
+		<a1>When in the course of human events</a1>
+		<a2>We the People of the United States</a2>
+		<a3>No soldier shall in time of peace</a3>
+		<a4>The House of Representatives shall be composed</a4>
+		<a>1</a>
+	</question>
+	<question id="7">
+		<q>What document was used before the United States Constitution?</q>
+		<a1>The Declaration of Independence</a1>
+		<a2>The Civil Rights Act</a2>
+		<a3>The Articles of Confederation</a3>
+		<a4>the Bill of Rights</a4>
+		<a>3</a>
+	</question>
+	<question id="8">
+		<q>Who is Hosni Mubarack?</q>
+		<a1>The former president of Egypt</a1>
+		<a2>The current leader of Libya</a2>
+		<a3>The current leader of Syria</a3>
+		<a4>The former monarch of Saudia Arabia</a4>
+		<a>1</a>
+	</question>
+	<question id="9">
+		<q>What was the final battle of the war of 1812?</q>
+		<a1>British sacking of Washington D.C.</a1>
+		<a2>The battle of New Orleans</a2>
+		<a3>Battle of the Sink Hole</a3>
+		<a4>Battle of Malcolm's Mill</a4>
+		<a>3</a>
+	</question>
+	<question id="10">
+		<q>What was the original name of the butterfly?</q>
+		<a1>flybutter</a1>
+		<a2>margarinfly</a2>
+		<a3>butterfly</a3>
+		<a4>flutterby</a4>
+		<a>4</a>
+	</question>
+	<question id="11">
+		<q>How long is the memory span of a goldfish</q>
+		<a1>3 seconds</a1>
+		<a2>3 months</a2>
+		<a3>10 minutes</a3>
+		<a4>24 hours</a4>
+		<a>2</a>
+	</question>
+	<question id="12">
+		<q>How long is a jiffy?</q>
+		<a1>1 second</a1>
+		<a2>5 minutes</a2>
+		<a3>1/2 of a second</a3>
+		<a4>1/100th of a second</a4>
+		<a>4</a>
+	</question>
+	<question id="13">
+		<q>who invented the scissors</q>
+		<a1>Leonardo Da Vinci</a1>
+		<a2>Thomas Edison</a2>
+		<a3>Nikola Tesla</a3>
+		<a4>Nicolas Otto</a4>
+		<a>1</a>
+	</question>
+	<question id="14">
+		<q>What is the full name of Los Angeles</q>
+		<a1>Los Angeles</a1>
+		<a2>La ciudad ed los Angeles</a2>
+		<a3>El Pueblo de Nuestra Senora la Reina de los Angeles de Porciuncula</a3>
+		<a4>El centro publico de las ciudades de las Angeles</a4>
+		<a>3</a>
+	</question>
+	<question id="15">
+		<q>What is the maximum number of times a piece of paper can be folded?</q>
+		<a1>10</a1>
+		<a2>6</a2>
+		<a3>8</a3>
+		<a4>7</a4>
+		<a>4</a>
+	</question>
+	<question id="16">
+		<q>How many ways are there of making change for a dollar?</q>
+		<a1>293</a1>
+		<a2>50</a2>
+		<a3>315</a3>
+		<a4>16</a4>
+		<a>1</a>
+	</question>
+	<question id="17">
+		<q>What is the only planet the rotates clockwise</q>
+		<a1>Jupiter</a1>
+		<a2>Earth</a2>
+		<a3>Venus</a3>
+		<a4>Mercury</a4>
+		<a>3</a>
+	</question>
+	<question id="18">
+		<q>How many colors can the human eye detect?</q>
+		<a1>10 million</a1>
+		<a2>30,000</a2>
+		<a3>10,000</a3>
+		<a4>5,000</a4>
+		<a>1</a>
+	</question>
+	<question id="19">
+		<q>Which president did not wear glasses?</q>
+		<a1>Ronald Reagan</a1>
+		<a2>Abraham Lincoln</a2>
+		<a3>George Washington</a3>
+		<a4>None of the above</a4>
+		<a>4</a>
+	</question>
+	<question id="20">
+		<q>Which came first?</q>
+		<a1>Chicken</a1>
+		<a2>Rooster</a2>
+		<a3>Hen</a3>
+		<a4>Egg</a4>
+		<a>4</a>
+	</question>
+	<question id="21">
+		<q>What is the second largest word in the english language?</q>
+		<a1>pneumonoultramicroscopics- ilicovolcanoconiosis</a1>
+		<a2>pneumonoultra-microscopicsilicovol- canoconioses</a2>
+		<a3>antidisestablishmentarianism</a3>
+		<a4>HuntTheWumpus</a4>
+		<a>3</a>
+	</question>
+	<question id="22">
+		<q>How many dimples are there on a regulation golf ball?</q>
+		<a1>163</a1>
+		<a2>336</a2>
+		<a3>400</a3>
+		<a4>226</a4>
+		<a>2</a>
+	</question>
+	<question id="23">
+		<q>What is a group of ravens called?</q>
+		<a1>murder</a1>
+		<a2>group</a2>
+		<a3>flock</a3>
+		<a4>gaggle</a4>
+		<a>1</a>
+	</question>
+	<question id="24">
+		<q>What was the first product to have a bar code?</q>
+		<a1>Nike shoes</a1>
+		<a2>Lucky Stripes cigarettes</a2>
+		<a3>The Economist magazine</a3>
+		<a4>Wrigley's Gum</a4>
+		<a>4</a>
+	</question>
+	<question id="25">
+		<q>What is the alternative name for Shakespeare's play "Twelfth Night"?</q>
+		<a1>What You Do</a1>
+		<a2>A Midsummer Night's Dream</a2>
+		<a3>What You Will</a3>
+		<a4>Richard III</a4>
+		<a>3</a>
+	</question>
+	<question id="26">
+		<q>What was the original name of "Pride and Predjudice"?</q>
+		<a1>The Courtship of Mr.Darcy</a1>
+		<a2>First Impressions</a2>
+		<a3>Sense and Sensability</a3>
+		<a4>Jane Eyre</a4>
+		<a>2</a>
+	</question>
+	<question id="27">
+		<q>How many drops of water does it take to fill a teaspoon?</q>
+		<a1>120</a1>
+		<a2>240</a2>
+		<a3>360</a3>
+		<a4>720</a4>
+		<a>1</a>
+	</question>
+	<question id="28">
+		<q>How wide is the statue of liberties mouth?</q>
+		<a1>5 ft</a1>
+		<a2>10 ft</a2>
+		<a3>7 ft</a3>
+		<a4>3 ft</a4>
+		<a>4</a>
+	</question>
+	<question id="29">
+		<q>Which president did not die on July 4th?</q>
+		<a1>John Adams</a1>
+		<a2>Thomas Jefferson</a2>
+		<a3>George Washington</a3>
+		<a4>James Monroe</a4>
+		<a>3</a>
+	</question>
+	<question id="30">
+		<q>Who was the first president to be born a citizen of the United States?</q>
+		<a1>Thomas Jefferson</a1>
+		<a2>Martin Van Buren</a2>
+		<a3>John Adams</a3>
+		<a4>George Washington</a4>
+		<a>2</a>
+	</question>
+	<question id="31">
+		<q>How fast can a sneeze travel?</q>
+		<a1>100 mph</a1>
+		<a2>30 mph</a2>
+		<a3>200 mph</a3>
+		<a4>3 ft/sec</a4>
+		<a>1</a>
+	</question>
+	<question id="32">
+		<q>How many muscles does it take to smile?</q>
+		<a1>16</a1>
+		<a2>25</a2>
+		<a3>43</a3>
+		<a4>17</a4>
+		<a>4</a>
+	</question>
+	<question id="33">
+		<q>What color hair did Christopher Columbus have?</q>
+		<a1>Red</a1>
+		<a2>Brown</a2>
+		<a3>Blond</a3>
+		<a4>Black</a4>
+		<a>3</a>
+	</question>
+	<question id="34">
+		<q>What college did Edgar Allan Poe go to?</q>
+		<a1>Harvard</a1>
+		<a2>West Point</a2>
+		<a3>Yale</a3>
+		<a4>Dartsmouth</a4>
+		<a>2</a>
+	</question>
+	<question id="35">
+		<q>How many beds did Louis XIV own?</q>
+		<a1>413</a1>
+		<a2>256</a2>
+		<a3>275</a3>
+		<a4>298</a4>
+		<a>1</a>
+	</question>
+	<question id="36">
+		<q>When was the oldest piano in existence built?</q>
+		<a1>1650</a1>
+		<a2>1840</a2>
+		<a3>1720</a3>
+		<a4>1500</a4>
+		<a>3</a>
+	</question>
+	<question id="37">
+		<q>What is the most commonly used word in the English Language?</q>
+		<a1>you</a1>
+		<a2>I</a2>
+		<a3>he</a3>
+		<a4>she</a4>
+		<a>2</a>
+	</question>
+	<question id="38">
+		<q>What is the most frequently used letter in the English language?</q>
+		<a1>E</a1>
+		<a2>Q</a2>
+		<a3>P</a3>
+		<a4>A</a4>
+		<a>1</a>
+	</question>
+	<question id="39">
+		<q>How long does a house fly live?</q>
+		<a1>5 days</a1>
+		<a2>3 weeks</a2>
+		<a3>1 week</a3>
+		<a4>2 weeks</a4>
+		<a>4</a>
+	</question>
+	<question id="40">
+		<q>How do butterflies taste?</q>
+		<a1>using their bottom of their feet</a1>
+		<a2>using their antenna</a2>
+		<a3>using their wings</a3>
+		<a4>using their legs</a4>
+		<a>1</a>
+	</question>
+	<question id="41">
+		<q>Which breed of dog has the best eyesight?</q>
+		<a1>Golden Retriever</a1>
+		<a2>Dashhund</a2>
+		<a3>German Shepard</a3>
+		<a4>Greyhound</a4>
+		<a>4</a>
+	</question>
+	<question id="42">
+		<q>Which animal has the slowest metabolism?</q>
+		<a1>sloth</a1>
+		<a2>horse</a2>
+		<a3>whale</a3>
+		<a4>dog</a4>
+		<a>3</a>
+	</question>
+	<question id="43">
+		<q>When do duck lay eggs?</q>
+		<a1>noon</a1>
+		<a2>the early morning</a2>
+		<a3>night</a3>
+		<a4>the afternoon</a4>
+		<a>2</a>
+	</question>
+	<question id="44">
+		<q>Which state did not ratify the 18th Amendment?</q>
+		<a1>Massachusets</a1>
+		<a2>Conneticut</a2>
+		<a3>Arizona</a3>
+		<a4>New York</a4>
+		<a>2</a>
+	</question>
+	<question id="45">
+		<q>how many grooves does a quarter have?</q>
+		<a1>119</a1>
+		<a2>118</a2>
+		<a3>200</a3>
+		<a4>150</a4>
+		<a>1</a>
+	</question>
+	<question id="46">
+		<q>How many grooves does a dime have</q>
+		<a1>150</a1>
+		<a2>200</a2>
+		<a3>119</a3>
+		<a4>118</a4>
+		<a>4</a>
+	</question>
+	<question id="47">
+		<q>At the outbreak of WWI how many men were in the Air Force?</q>
+		<a1>5,000</a1>
+		<a2>2,000</a2>
+		<a3>50</a3>
+		<a4>100</a4>
+		<a>3</a>
+	</question>
+	<question id="48">
+		<q>What is the highest concentration of alcohol a drink is allowed to have?</q>
+		<a1>86%</a1>
+		<a2>97%</a2>
+		<a3>98%</a3>
+		<a4>80%</a4>
+		<a>2</a>
+	</question>
+	<question id="49">
+		<q>Upon death, which is the first sense lost?</q>
+		<a1>sight</a1>
+		<a2>hearing</a2>
+		<a3>taste</a3>
+		<a4>touch</a4>
+		<a>1</a>
+	</question>
+	<question id="50">
+		<q>Who was the first head of the U.S. Post Office?</q>
+		<a1>Zachory Taylor</a1>
+		<a2>James Monroe</a2>
+		<a3>John Quincy Adams</a3>
+		<a4>Benjamin Franklin</a4>
+		<a>4</a>
+	</question>
+	<question id="51">
+		<q>What is a person's typical short-term memory capacity?</q>
+		<a1>6-12 items</a1>
+		<a2>2-4 items</a2>
+		<a3>5-9 items</a3>
+		<a4>11-15 items</a4>
+		<a>3</a>
+	</question>
+	<question id="52">
+		<q>How many miles of bookshelves are in the Library of Congress?</q>
+		<a1>456</a1>
+		<a2>327</a2>
+		<a3>200</a3>
+		<a4>275</a4>
+		<a>2</a>
+	</question>
+	<question id="53">
+		<q>What percent of the world's water is in the ocean?</q>
+		<a1>97</a1>
+		<a2>80</a2>
+		<a3>95</a3>
+		<a4>90</a4>
+		<a>1</a>
+	</question>
+	<question id="54">
+		<q>Which part of the body continue to grow throughout a person's life?</q>
+		<a1>fingers</a1>
+		<a2>left hand</a2>
+		<a3>feet</a3>
+		<a4>nose</a4>
+		<a>4</a>
+	</question>
+	<question id="55">
+		<q>How large is the average person's field of vision?</q>
+		<a1>120 degrees</a1>
+		<a2>150 degrees</a2>
+		<a3>180 degrees</a3>
+		<a4>90 degrees</a4>
+		<a>3</a>
+	</question>
+	<question id="56">
+		<q>Which president was the only one never to marry?</q>
+		<a1>Theodore Roosevelt</a1>
+		<a2>James Buchanan</a2>
+		<a3>John F. Kennedy</a3>
+		<a4>Lyndon Johnson</a4>
+		<a>2</a>
+	</question>
+
+        <question id="57">
+                <q>What is the name of the U.S. osteopathic medical licensing examination?</q>
+                <a1>RSPE</a1>
+                <a2>USMLE</a2>
+                <a3>COMLEX</a3>
+                <a4>PBLE</a4>
+                <a>3</a>
+        </question>
+
+        <question id="58">
+                <q>Who is the current Chairman of the Tibet Autonomous Region?</q>
+                <a1>Padma Choling</a1>
+                <a2>Hu Jintao</a2>
+                <a3>Zhang Qingli</a3>
+                <a4>Lu Bu</a4>
+                <a>1</a>
+        </question>
+
+        <question id="59">
+                <q>Who is the author of Romance of the Three Kingdoms?</q>
+                <a1>Cao Xueqin</a1>
+                <a2>Wu Cheng'en</a2>
+                <a3>Shi Nai'an</a3>
+                <a4>Luo Guanzhong</a4>
+                <a>4</a>
+        </question>
+
+        <question id="60">
+                <q>Which medical specialty concerns the diagnosis of disease based on laboratory analysis?</q>
+                <a1>pediatrics</a1>
+                <a2>clinical pathology</a2>
+                <a3>radiology</a3>
+                <a4>radiation oncology</a4>
+                <a>2</a>
+        </question>
+
+        <question id="61">
+                <q>Which dynasty followed the Xin Dynasty?</q>
+                <a1>Western Jin Dynasty</a1>
+                <a2>Eastern Han Dynasty</a2>
+                <a3>Southern Song Dynasty</a3>
+                <a4>Western Han Dynasty</a4>
+                <a>2</a>
+        </question>
+
+        <question id="62">
+                <q>Which of the following schools is not in the C9 League?</q>
+                <a1>Tianjin University</a1>
+                <a2>Fudan University</a2>
+                <a3>Harbin Institute of Technology</a3>
+                <a4>Xi'an Jiaotong University</a4>
+                <a>1</a>
+        </question>
+
+        <question id="63">
+                <q>Who of the following is not a member of the "Shanghai clique?"</q>
+                <a1>Jiang Zemin</a1>
+                <a2>Zeng Qinghong</a2>
+                <a3>Wen Jiabao</a3>
+                <a4>Liu Qi</a4>
+                <a>3</a>
+        </question>
+
+        <question id="64">
+                <q>Who is the current Propaganda Chief of the Communist Party of China?</q>
+                <a1>Hu Jintao</a1>
+                <a2>Wu Bangguo</a2>
+                <a3>Jia Qinglin</a3>
+                <a4>Li Changchun</a4>
+                <a>4</a>
+        </question>
+
+        <question id="65">
+                <q>Who was the first General Secretary of the Communist Party of China?</q>
+                <a1>Mao Zedong</a1>
+                <a2>Chen Duxiu</a2>
+                <a3>Wang ming</a3>
+                <a4>Xiang Zhongfa</a4>
+                <a>2</a>
+        </question>
+
+        <question id="66">
+                <q>What is the national anthem of the People's Republic of China?</q>
+                <a1>March of the Volunteers</a1>
+                <a2>Power of the People</a2>
+                <a3>Children of the Storm</a3>
+                <a4>Emancipation of the Downtrodden</a4>
+                <a>1</a>
+        </question>
+
+        <question id="67">
+                <q>In 2008, what was the average MCAT score for U.S. medical school matriculants?</q>
+                <a1>29.1P</a1>
+                <a2>30.9P</a2>
+                <a3>31.4P</a3>
+                <a4>32.0P</a4>
+                <a>2</a>
+        </question>
+
+        <question id="68">
+                <q>What is the 4th ranked medical school in research on the U.S. News rankings?</q>
+                <a1>University of Pennsylvania</a1>
+                <a2>Johns Hopkins University</a2>
+                <a3>Washington University in St. Louis</a3>
+                <a4>Duke University</a4>
+                <a>3</a>
+        </question>
+
+        <question id="69">
+                <q>What is a slang term used to describe hyper-competitive students in medical or law school?</q>
+                <a1>rocket</a1>
+                <a2>plastics-in-the-making</a2>
+                <a3>grade-grubber</a3>
+                <a4>gunner</a4>
+                <a>4</a>
+        </question>
+
+        <question id="70">
+                <q>Which two degrees do MSTP programs grant?</q>
+                <a1>MD and PhD</a1>
+                <a2>MBA and PhD</a2>
+                <a3>MPH and MD</a3>
+                <a4>MS and PhD</a4>
+                <a>1</a>
+        </question>
+
+        <question id="71">
+                <q>When did the AP program begin?</q>
+                <a1>1945</a1>
+                <a2>1950</a2>
+                <a3>1955</a3>
+                <a4>1960</a4>
+                <a>3</a>
+        </question>
+
+        <question id="72">
+                <q>What is the second movement in Mozart's Piano Sonata No. 10 in C Major, K 330?</q>
+                <a1>Allegro moderato</a1>
+                <a2>Allegretto moderato</a2>
+                <a3>Andante cantabile</a3>
+                <a4>Allegretto</a4>
+                <a>3</a>
+        </question>
+        <question id="73">
+                <q>What is the key of the first movement of Beethoven's Moonlight Sonata?</q>
+                <a1>A major</a1>
+                <a2>B flat major</a2>
+                <a3>F sharp major</a3>
+                <a4>C sharp minor</a4>
+                <a>4</a>
+        </question>
+        <question id="74">
+                <q>How many Royal Warrants does Steinway and Sons hold?</q>
+                <a1>11</a1>
+                <a2>12</a2>
+                <a3>13</a3>
+                <a4>14</a4>
+                <a>2</a>
+        </question>
+        <question id="75">
+                <q>What is the sequel to Jin Yong's novel The Return of the Condor Heroes?</q>
+                <a1>Fox Volant of the Snowy Mountain</a1>
+                <a2>Blade-dance of the Two Lovers</a2>
+                <a3>Swordswoman Riding West on White Horse</a3>
+                <a4>Heaven Sword and Dragon Sabre</a4>
+                <a>4</a>
+        </question>
+
+        <question id="76">
+                <q>Which instrument does Philippe Entremont play?</q>
+                <a1>piano</a1>
+                <a2>violin</a2>
+                <a3>viola</a3>
+                <a4>cello</a4>
+                <a>1</a>
+        </question>
+
+        <question id="77">
+                <q>Which of the following is not a grade of the French Order des Arts et des Lettres?</q>
+                <a1>Commandeur (Commander)</a1>
+                <a2>Officier (Officer)</a2>
+                <a3>Chef (Chief)</a3>
+                <a4>Chevalier (Knight)</a4>
+                <a>3</a>
+        </question>
+
+        <question id="78">
+                <q>Which of the following does not play a role in the synthesis or production of erythropoietin?</q>
+                <a1>the renal cortex</a1>
+                <a2>erythrocytic anhydrases</a2>
+                <a3>renal peritubular cells</a3>
+                <a4>the liver</a4>
+                <a>2</a>
+        </question>
+
+        <question id="79">
+                <q>Which of the following molecules is achiral?</q>
+                <a1>dichlorospiroheptane</a1>
+                <a2>trans-cyclooctene</a2>
+                <a3>cholesterol</a3>
+                <a4>1,2,3-propanetriol</a4>
+                <a>4</a>
+        </question>
+	<question id="80">
+                <q>What is the minimum passing score on the USMLE Step 1?</q>
+                <a1>124</a1>
+                <a2>156</a2>
+                <a3>188</a3>
+                <a4>214</a4>
+                <a>3</a>
+        </question>	<question id="81">
+		<q>Which of these is NOT an official language in Belgium?</q>
+		<a1>Italian</a1>
+		<a2>French</a2>
+		<a3>German</a3>
+		<a4>Dutch</a4>
+		<a>1</a>
+	</question>
+
+
+	<question id="82">
+		<q>In what year was Windows XP first released?</q>
+		<a1>2000</a1>
+		<a2>2001</a2>
+		<a3>2002</a3>
+		<a4>2003</a4>
+		<a>2</a>
+	</question>
+
+
+	<question id="83">
+		<q>Which of these countries has never been a part of the British Empire?</q>
+		<a1>India</a1>
+		<a2>South Africa</a2>
+		<a3>Egypt</a3>
+		<a4>Argentina</a4>
+		<a>4</a>
+	</question>
+
+
+	<question id="84">
+		<q>What material were records made of before they used vinyl?</q>
+		<a1>Shellac</a1>
+		<a2>Nylon</a2>
+		<a3>Rubber</a3>
+		<a4>Clay</a4>
+		<a>1</a>
+	</question>
+
+
+	<question id="85">
+		<q>Which of these classic rock bands did not originate in Britain?</q>
+		<a1>The Who</a1>
+		<a2>The Rolling Stones</a2>
+		<a3>The Beatles</a3>
+		<a4>The Doors</a4>
+		<a>4</a>
+	</question>
+
+
+	<question id="86">
+		<q>What country is Normandy located in?</q>
+		<a1>Germany</a1>
+		<a2>England</a2>
+		<a3>Italy</a3>
+		<a4>France</a4>
+		<a>4</a>
+	</question>
+
+
+	<question id="87">
+		<q>What was the official language of the Roman Empire?</q>
+		<a1>Roman</a1>
+		<a2>Latin</a2>
+		<a3>Italian</a3>
+		<a4>Greek</a4>
+		<a>2</a>
+	</question>
+
+
+	<question id="88">
+		<q>What planet is closest to the sun?</q>
+		<a1>Mercury</a1>
+		<a2>Venus</a2>
+		<a3>Mars</a3>
+		<a4>Jupiter</a4>
+		<a>1</a>
+	</question>
+
+
+
+	<question id="89">
+		<q>On a six-string guitar in standard tuning, what is the lowest note one can play?</q>
+		<a1>A</a1>
+		<a2>B</a2>
+		<a3>D</a3>
+		<a4>E</a4>
+		<a>4</a>
+	</question>
+
+
+
+	<question id="90">
+		<q>Who was the second president of the United States?</q>
+		<a1>George Washington</a1>
+		<a2>Abraham Lincoln</a2>
+		<a3>John Adams</a3>
+		<a4>Thomas Jefferson</a4>
+		<a>3</a>
+	</question>
+
+
+
+	<question id="91">
+		<q>What is the boiling point of water in degrees Fahrenheit (at sea level)?</q>
+		<a1>100</a1>
+		<a2>192</a2>
+		<a3>212</a3>
+		<a4>312</a4>
+		<a>3</a>
+	</question>
+
+
+
+	<question id="92">
+		<q>In what year did the Titanic sink?</q>
+		<a1>1908</a1>
+		<a2>1912</a2>
+		<a3>1924</a3>
+		<a4>1931</a4>
+		<a>2</a>
+	</question>
+
+
+
+	<question id="93">
+		<q>How do you say "gray" in Spanish?</q>
+		<a1>agre</a1>
+		<a2>grasa</a2>
+		<a3>grayo</a3>
+		<a4>gris</a4>
+		<a>4</a>
+	</question>
+
+
+
+	<question id="94">
+		<q>Who was the founder of Buddhism?</q>
+		<a1>Siddhartha Gautama</a1>
+		<a2>Mohandas Gandhi</a2>
+		<a3>Thich Quanh Duc</a3>
+		<a4>Mao Zedong</a4>
+		<a>1</a>
+	</question>
+
+
+
+	<question id="95">
+		<q>What area is the ancient language Sanskirt associated with?</q>
+		<a1>China</a1>
+		<a2>Iran</a2>
+		<a3>Egypt</a3>
+		<a4>India</a4>
+		<a>4</a>
+	</question>
+
+
+
+	<question id="96">
+		<q>In what year was the Emancipation Proclamation ordered?</q>
+		<a1>1844</a1>
+		<a2>1863</a2>
+		<a3>1899</a3>
+		<a4>1845</a4>
+		<a>2</a>
+	</question>
+	<question id="97">
+		<q>Where was the first shot fired in the Civil War</q>
+		<a1>Appamatox Couthouse</a1>
+		<a2>Bunker Hill</a2>
+		<a3>Fort Sumnter</a3>
+		<a4>Fredricksberg</a4>
+		<a>3</a>
+	</question>
+
+	<question id="98">
+		<q>Who was the President of the Confederacy during the Civil War?</q>
+		<a1>Jefferson Davis</a1>
+		<a2>Robert E. Lee</a2>
+		<a3>Ulysses Grant</a3>
+		<a4>William Sherman</a4>
+		<a>1</a>
+	</question>
+
+	<question id="99">
+		<q>When did the U.S. enter WWII?</q>
+		<a1>1939</a1>
+		<a2>1940</a2>
+		<a3>1942</a3>
+		<a4>1941</a4>
+		<a>4</a>
+	</question>
+
+	<question id="100">
+		<q>What was the name of Lyndon Johnson's social program package?</q>
+		<a1>Vietnamization</a1>
+		<a2>The War on Poverty</a2>
+		<a3>The Great Society</a3>
+		<a4>The New Frontier</a4>
+		<a>3</a>
+	</question>
+	<trivia id="1">
+		<t>The current Prime Minister of the UK is David Cameron</t>
+	</trivia>
+	<trivia id="2">
+		<t>The current Chancellor of Germany is Angela Merkel</t>
+	</trivia>
+	<trivia id="3">
+		<t>The capitol of South Korea is Seoul</t>
+	</trivia>
+	<trivia id="4">
+		<t>The cake is a lie</t>
+	</trivia>
+	<trivia id="5">
+		<t>The current Prime Minister of Israel is Benjamin Netanyahu</t>
+	</trivia>
+	<trivia id="6">
+		<t>The first seven lines of the Declaration of Independence are:"When in the course of human events"</t>
+	</trivia>
+	<trivia id="7">
+		<t>The Articles of Confederation were used before the Constitution</t>
+	</trivia>
+	<trivia id="8">
+		<t>Hosni Mubarack is the former president of Egypt</t>
+	</trivia>
+	<trivia id="9">
+		<t>The final battle of the war of 1812 was the battle of the Sink Hole</t>
+	</trivia>
+	<trivia id="10">
+		<t>The original name of the butterfly was the flutterby</t>
+	</trivia>
+	<trivia id="11">
+		<t>The memory span of a goldfish is 3 months</t>
+	</trivia>
+	<trivia id="12">
+		<t>A jiffy is 1/100th of a second</t>
+	</trivia>
+	<trivia id="13">
+		<t>Leonardo Da Vinci invented the scissors</t>
+	</trivia>
+	<trivia id="14">
+		<t>The full name of Los Angeles is El Pueblo de Nuestra Senora la Reina de los Angeles de Porciuncula</t>
+	</trivia>
+	<trivia id="15">
+		<t>A piece of paper can be folded a maximum of 7 times</t>
+	</trivia>
+	<trivia id="16">
+		<t>There are 293 ways of making change for a dollar</t>
+	</trivia>
+	<trivia id="17">
+		<t>The only planet that rotates clockwise is Venus</t>
+	</trivia>
+	<trivia id="18">
+		<t>The human eye can detect 10 million different colors</t>
+	</trivia>
+	<trivia id="19">
+		<t>All of the presidents wore glasses</t>
+	</trivia>
+	<trivia id="20">
+		<t>The Egg came before the chicken</t>
+	</trivia>
+	<trivia id="21">
+		<t>The second largest word in the English language is antidisestablishmentarianism</t>
+	</trivia>
+	<trivia id="22">
+		<t>There are 334 dimples on a regulation golf ball</t>
+	</trivia>
+	<trivia id ="23">
+		<t>A group of ravens is called a murder</t>
+	</trivia>
+	<trivia id="24">
+		<t>The first product to have a barcode was Wrigley's Gum</t>
+	</trivia>
+	<trivia id="25">
+		<t>The alternative name for Shakespeare's play "Twelfth Night" is "What You Will"</t>
+	</trivia>
+	<trivia id="26">
+		<t>The original name for "Pride and Predjudice" was "First Impressions"</t>
+	</trivia>
+	<trivia id="27">
+		<t>It takes 120 drops of water to fill a teaspoon</t>
+	</trivia>
+	<trivia id="28">
+		<t>The Statues of Liberties mouth is 3 ft wide</t>
+	</trivia>
+	<trivia id="29">
+		<t>John Adams, Thomas Jefferson and James Monroe all died on July 4th</t>
+	</trivia>
+	<trivia id="30">
+		<t>Martin Van Buren was the first president to be born a citizen of the United States</t>
+	</trivia>
+	<trivia id="31">
+		<t>A sneeze can travel 100 mph</t>
+	</trivia>
+	<trivia id="32">
+		<t>It takes 17 muscles to smile</t>
+	</trivia>
+	<trivia id="33">
+		<t>Christopher Columbus had blond hair</t>
+	</trivia>
+	<trivia id="34">
+		<t>Edgar Allan Poe went to West Point</t>
+	</trivia>
+	<trivia id="35">
+		<t>Louis XIV owned 413 beds</t>
+	</trivia>
+	<trivia id="36">
+		<t>The oldest piano in existence was built in 1720</t>
+	</trivia>
+	<trivia id="37">
+		<t>The most commonly used word in the English language is "I"</t>
+	</trivia>
+	<trivia id="38">
+		<t>The most frequently used letter in the English language is "E"</t>
+	</trivia>
+	<trivia id="39">
+		<t>A house fly lives for about 2 weeks</t>
+	</trivia>
+	<trivia id="40">
+		<t>Butterflies taste using the bottom of their feet</t>
+	</trivia>
+	<trivia id="41">
+		<t>Greyhounds are the dog breed with the best sight</t>
+	</trivia>
+	<trivia id="42">
+		<t>The whale has the slowest metabolism of any animal</t>
+	</trivia>
+	<trivia id="43">
+		<t>ducks lay eggs in the early morning</t>
+	</trivia>
+	<trivia id="44">
+		<t>Conneticut and Rhode Island never ratified the 18th ammendment</t>
+	</trivia>
+	<trivia id="45">
+		<t>A quarter has 119 grooves</t>
+	</trivia>
+	<trivia id="46">
+		<t>A dime has 118 grooves</t>
+	</trivia>
+	<trivia id="47">
+		<t>At the outbreak of WWI the U.S. Air Force had 50 members</t>
+	</trivia>
+	<trivia id="48">
+		<t>The highest legal concentration of alcohol for a beverage is 97%</t>
+	</trivia>
+	<trivia id="49">
+		<t>The first sense lost upon death is sight</t>
+	</trivia>
+	<trivia id="50">
+		<t>The first head of the U.S. Post Office was Benjamin Franklin</t>
+	</trivia>
+	<trivia id="51">
+		<t>A person's typical short term memory has a capacity of 5 to 9 items</t>
+	</trivia>
+	<trivia id="52">
+		<t>There are 327 miles of bookshelves at the Library of Congress</t>
+	</trivia>
+	<trivia id="53">
+		<t>97% of the world's water is in the ocean</t>
+	</trivia>
+	<trivia id="54">
+		<t>The nose and ears are the only body parts that continue to grow throughout a person's life</t>
+	</trivia>
+	<trivia id="55">
+		<t>An average person's field of vision is 180 degrees</t>
+	</trivia>
+	<trivia id="56">
+		<t>James Buchanan was the only president never to marry</t>
+	</trivia>
+	<trivia id="57">
+		<t>The name of the U.S. osteopathic medical licensing examination is COMLEX</t>
+	</trivia>
+	<trivia id="58">
+		<t>The current chairman of the Tibet Autonomous Region is Padma Choling</t>
+	</trivia>
+	<trivia id="59">
+		<t>The author o Ramnce of the Three Kingdoms is Luo Guanzhong</t>
+	</trivia>
+	<trivia id="60">
+		<t>Clinical pathology concerns the diagnosis of disease based on laboratory analysis</t>
+	</trivia>
+	<trivia id="61">
+		<t>The Eastern Han dynasty followed the Xin Dynasty</t>
+	</trivia>
+	<trivia id="62">
+		<t>Tianjin University is not in the C9 League</t>
+	</trivia>
+	<trivia id="63">
+		<t>Wen Jiabao is not a member of the "Shanghai Clique"</t>
+	</trivia>
+	<trivia id="64">
+		<t>The current Propaganda Chief of the Communist Party of China is Li Changchun</t>
+	</trivia>
+	<trivia id="65">
+		<t>The first General Secretary of the Communist Party of China was Chen Duxiu</t>
+	</trivia>
+	<trivia id="66">
+		<t>The nation anthem of the People's Republic of China is the "March of the Volunteers</t>
+	</trivia>
+	<trivia id="67">
+		<t>In 2008 the average MCAT score for the U.S. medical school marticulants was 30.9p</t>
+	</trivia>
+	<trivia id="68">
+		<t>The 4th ranked medical school in research on the U.S. New rankings is Washington University in St. Louis</t>
+	</trivia>
+	<trivia id="69">
+		<t>A slang term used to describe hyper-competitive students in medical or law shcool is "gunner"</t>
+	</trivia>
+	<trivia id="70">
+		<t>The two degrees granted by the MSTP programs are the MD and PhD</t>
+	</trivia>
+	<trivia id="71">
+		<t>The AP program began in 1955</t>
+	</trivia>
+	<trivia id="72">
+		<t>The second movement in Moxart's Pain Sonata No. 10 in C major is "Andante Cantabile"</t>
+	</trivia>
+	<trivia id="73">
+		<t>The major key of the first movement of Beethoven's Moonligh Sonata is C# minor</t>
+	</trivia>
+	<trivia id="74">
+		<t>Steinway and Sons holds 12 Royal Warrants</t>
+	</trivia>
+	<trivia id="75">
+		<t>The sequel to Jin Yong's novel "The Return of the Condor Heroes" is "Heaven Sword and Dragon Sabre"</t>
+	</trivia>
+	<trivia id="76">
+		<t>Philippe Entremont plays the piano</t>
+	</trivia>
+	<trivia id="77">
+		<t>Chef (or Chief) is not a grade of the French Order des Arts et des Lettres</t>
+	</trivia>
+	<trivia id="78">
+		<t>Erythrocytic anhydrases does not play a role in the synthesis or production of erythropoietin</t>
+	</trivia>
+	<trivia id="79">
+		<t>1,2,3-propanetriol is an achiral molecule</t>
+	</trivia>
+	<trivia id="80">
+		<t>The minimum passing score on the USMLE Step 1 is 188</t>
+	</trivia>
+	<trivia id="81">
+		<t> French, German and Dutch are the official languages of Belgium</t>
+	</trivia>
+	<trivia id="82">
+		<t>Windows XP was released in 2001</t>
+	</trivia>
+	<trivia id="83">
+		<t>Argentina was never part of the British Empire</t>
+	</trivia>
+	<trivia id="84">
+		<t>Shellac was used to make records before vinyl was used</t>
+	</trivia>
+	<trivia id="85">
+		<t>The rock band "The Doors" orginated in Los Angeles, California</t>
+	</trivia>
+	<trivia id="86">
+		<t>Normandy is located in France</t>
+	</trivia>
+	<trivia id="87">
+		<t>The official language of the Roman Empire was Latin</t>
+	</trivia>
+	<trivia id="88">
+		<t>The planet closest to the sun is Mercury</t>
+	</trivia>
+	<trivia id="89">
+		<t>The lowest note you can play on a size-string guitar in standard tuning is E</t>
+	</trivia>
+	<trivia id="90">
+		<t>The second president of the United States was John Adams</t>
+	</trivia>
+	<trivia id="91">
+		<t>The boiling point of water is 212 degrees farenheit</t>
+	</trivia>
+	<trivia id="92">
+		<t>The Titanic sunk in the year 1912</t>
+	</trivia>
+	<trivia id="93">
+		<t>Gris is grey in Spanish</t>
+	</trivia>
+	<trivia id="94">
+		<t>The founder of Buddhism was Siddhartha Gautama</t>
+	</trivia>
+	<trivia id="95">
+		<t>The ancient language Sanskrit is normally associated with India</t>
+	</trivia>
+	<trivia id="96">
+		<t>The Emanicpation Prolamation was ordered in 1863</t>
+	</trivia>
+	<trivia id="97">
+		<t>The first whot in the Civil War was fired at Fort Sumnter</t>
+	</trivia>
+	<trivia id="98">
+		<t>The President of the Confederacy during the Civil war was Jefferson Davis</t>
+	</trivia>
+	<trivia id="99">
+		<t>The U.S. entered WWII in 1941</t>
+	</trivia>
+	<trivia id="100">
+		<t>Lyndon Johnson's social program package was called the "Greate Society"</t>
+	</trivia>
+</TriviaManagement>
+		
